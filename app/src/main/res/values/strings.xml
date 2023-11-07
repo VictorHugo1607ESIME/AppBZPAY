@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Template</string>
+
+
+    <string name="text_confirm">Confirmar</string>
+    <string name="text_login">Iniciar sesión</string>
+    <string name="text_register">Registrarse</string>
+    <string name="text_next">Siguiente</string>
+    <string name="text_before">Anterior</string>
+    <string name="text_return">Regresar</string>
+    <string name="text_try_again">Volver a intentar</string>
+    <string name="text_invalid_mail">Correo invalido</string>
+    <string name="text_obligatory_field">Campos obligatorios</string>
+
+    <!-- Alerts -->
+    <string name="text_message">Mensaje</string>
+    <string name="text_alert">Alerta</string>
+    <string name="text_yes">Si</string>
+    <string name="text_no">No</string>
+
+</resources>

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.template'
+    namespace 'com.pruebatecnica'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.template"
+        applicationId "com.pruebatecnica"
         minSdk 24
         targetSdk 33
         versionCode 1
